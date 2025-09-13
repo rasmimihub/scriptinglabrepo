@@ -15,9 +15,6 @@
                         $province[1] = "Province 2";
                         $province[2] = "Bagmati";
                         $province[3] = "Gandaki";
-                        $province[4] = "Province 5";
-                        $province[5] = "Karnali";
-                        $province[6] = "Sudur paschim";
                         var_dump($province);
                         ?>
                     </td>
@@ -29,9 +26,6 @@
                         $province["province_2"] = "Janakpur";
                         $province["bagmati"] = "Hetaduda";
                         $province["gandaki"] = "Pokhara";
-                        $province["province_5"] = "Butwal";
-                        $province["karnali"] = "Birendranagar";
-                        $province["sudur_paschim"] = "Godawari";
                         var_dump($province);
                         ?>
                     </td>
